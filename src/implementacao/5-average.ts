@@ -3,5 +3,5 @@ export function average(
   aluno2: number[],
   aluno3: number[]
 ): string[] {
-  return ;
+  return [""];
 }
