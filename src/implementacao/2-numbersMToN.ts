@@ -1,3 +1,3 @@
 export function showNumbersBetween(M: number, N: number): number[] {
-    return ;
+    return [0];
 }
